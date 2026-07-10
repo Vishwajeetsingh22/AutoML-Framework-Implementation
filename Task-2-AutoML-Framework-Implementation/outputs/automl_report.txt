@@ -1,0 +1,38 @@
+AutoML Framework — Summary Report
+========================================
+
+Dataset: diabetes
+Best Model = Random Forest
+Accuracy = 74.7%
+
+All model accuracies:
+  - Logistic Regression: 70.8%
+  - Random Forest: 74.7%
+  - Decision Tree: 71.4%
+  - SVM: 74.0%
+  - KNN: 72.7%
+----------------------------------------
+
+Dataset: iris
+Best Model = SVM
+Accuracy = 96.7%
+
+All model accuracies:
+  - Logistic Regression: 93.3%
+  - Random Forest: 90.0%
+  - Decision Tree: 90.0%
+  - SVM: 96.7%
+  - KNN: 96.7%
+----------------------------------------
+
+Dataset: loan
+Best Model = Random Forest
+Accuracy = 83.8%
+
+All model accuracies:
+  - Logistic Regression: 82.8%
+  - Random Forest: 83.8%
+  - Decision Tree: 78.8%
+  - SVM: 82.8%
+  - KNN: 81.8%
+----------------------------------------

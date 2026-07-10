@@ -1,0 +1,41 @@
+{
+  "diabetes": {
+    "best_model": "Random Forest",
+    "best_accuracy_pct": 74.68,
+    "all_accuracies_pct": {
+      "Logistic Regression": 70.78,
+      "Random Forest": 74.68,
+      "Decision Tree": 71.43,
+      "SVM": 74.03,
+      "KNN": 72.73
+    },
+    "model_path": "outputs/best_model_diabetes.pkl",
+    "chart_path": "screenshots/accuracy_diabetes.png"
+  },
+  "iris": {
+    "best_model": "SVM",
+    "best_accuracy_pct": 96.67,
+    "all_accuracies_pct": {
+      "Logistic Regression": 93.33,
+      "Random Forest": 90.0,
+      "Decision Tree": 90.0,
+      "SVM": 96.67,
+      "KNN": 96.67
+    },
+    "model_path": "outputs/best_model_iris.pkl",
+    "chart_path": "screenshots/accuracy_iris.png"
+  },
+  "loan": {
+    "best_model": "Random Forest",
+    "best_accuracy_pct": 83.84,
+    "all_accuracies_pct": {
+      "Logistic Regression": 82.83,
+      "Random Forest": 83.84,
+      "Decision Tree": 78.79,
+      "SVM": 82.83,
+      "KNN": 81.82
+    },
+    "model_path": "outputs/best_model_loan.pkl",
+    "chart_path": "screenshots/accuracy_loan.png"
+  }
+}
