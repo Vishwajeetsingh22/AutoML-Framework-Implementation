@@ -6,6 +6,14 @@ multiple candidate models, compares their accuracy, and selects the
 best-performing one — demonstrated on three different datasets:
 **Diabetes**, **Iris**, and **Loan**.
 
+## Internship Information
+
+This project was completed as part of the **Machine Learning Internship** offered by **CodTech IT Solutions Private Limited**.
+
+- **Intern ID:** CITS2321
+- **Task:** Task-2 – AutoML Framework Implementation
+- **Submitted by:** Vishwajeet Singh
+
 ## 🎯 Objective
 
 Automatically train multiple ML models on a given dataset and select
